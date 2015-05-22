@@ -1,0 +1,7 @@
+n:4;
+a:90;
+s:A;
+r:(100)A:B-F+CFC+F-D&F^D-F+&&CFC+F+B$$;
+r:(100)B:A&F^CFB^F^D^^-F-D^|F^B|FC^F^A$$;
+r:(100)C:|D^|F^B-F+C^F^A&&FA&F^C+F+B^F^D$$;
+r:(100)D:|CFB-F+B|FA&F^A&&FB-F+B|FC$$;
